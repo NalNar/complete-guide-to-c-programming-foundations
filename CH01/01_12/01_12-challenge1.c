@@ -1,12 +1,5 @@
-#include <stdio.h>
-#include <stdlib.h>
-/*main program
- */
-int main()
-{
-
-
-/* 
+main program
+ 
 initialization
 
 initial message
@@ -14,8 +7,3 @@ initial message
 main program loop
 
 output results
-*/
-
-return 0;
-
-}
